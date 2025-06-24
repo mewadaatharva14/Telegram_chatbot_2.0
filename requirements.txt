@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+transformers
+torch
+diffusers
+accelerate
+safetensors
+requests
+beautifulsoup4
+pillow
+huggingface_hub
